@@ -1,0 +1,48 @@
+h1 {
+    color:rgb(0, 213, 255);
+    font-family:helvetica;
+    background-color:purple;
+    border: 10px solid fuchsia;
+    padding: 50px;
+    }
+
+h1 {color: black;
+    background: white;
+    font-family:"Gill Sans";
+    text-transform: uppercase;
+}
+    
+    p {
+        color:pink;
+        }
+
+    #highlight{
+        color: orange;
+        background-color: green; 
+        border: 2px dotted green;
+    } 
+
+    .top{
+        background-color: red;
+        float: left;
+     }
+   
+
+        body {
+            background-color:rgb(229, 119, 244);
+            }
+             
+        h3 {
+            color:blue;
+            }
+
+            img {
+                border: 5px solid rgb(132, 246, 174);
+                width:50%;
+                height:50%;
+                margin-left: 100px;
+
+                }
+                
+            
+            
